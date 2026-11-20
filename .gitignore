@@ -1,0 +1,22 @@
+# Environments
+.venv/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archives & extraction artifacts
+*.tar
+*.tar.gz
+*.zip
+Predictive_Analytics_Sales_Revenue/
+
+# OS and IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.ipynb_checkpoints/
